@@ -7,13 +7,9 @@
       content="Web site created to test terraform on aws"
     />
   </head>
-  <body>
-    <center><h1>Welcome to my site <h1></center>
-    <pre>
-      <?php
-       print `ifconfig`;
-      ?>
-    </pre>
+  <body background = "#f1f1f1">
+    <center><h2>This site is hosted on AWS <h2></center>
+    
     
   </body>
 </html>
